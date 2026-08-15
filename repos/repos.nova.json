@@ -12,7 +12,7 @@
     "withSUSFS": true,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379",
+        "repo": "https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r450784e",
         "branch": "15.0",
         "name": "clang-crDroid",
         "binPath": ["./bin"]
