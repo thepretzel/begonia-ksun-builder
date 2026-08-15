@@ -1,11 +1,11 @@
 [
   {
-    "kernelName": "NoVa",
+    "kernelName": "c0nfusion",
     "kernelSource": {
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
-      "name": "NoVa-kernel",
-      "repo": "https://github.com/Nova-Kernels/priv_kernel_xiaomi_mt6785",
+      "name": "c0nfusion",
+      "repo": "https://github.com/thepretzel/begonia-ksun-builder",
       "branch": "main"
     },
     "withKernelSU": false,
